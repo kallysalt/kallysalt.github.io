@@ -1,6 +1,7 @@
 import './App.css'
 import {useState, useEffect} from 'react'
 import SingleCard from './components/SingleCard'
+import React from 'react'
 
 const cardImages = [
   { "src": "/img/helmet-1.png", matched: false},
