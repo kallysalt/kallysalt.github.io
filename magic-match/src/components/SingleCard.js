@@ -1,4 +1,5 @@
 import './SingleCard.css'
+import React from 'react'
 
 export default function SingleCard({card, handleChoice, flipped, disabled}) {
 
